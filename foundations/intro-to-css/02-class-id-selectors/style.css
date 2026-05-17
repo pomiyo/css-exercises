@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.p-class {
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    background-color: rgb(247, 110, 110);
+}
+
+.third {
+    font-size: 24px;
+}
+
+#div-id1 {
+    color: rgb(4, 4, 212);
+    font-size: 36px;
+}
+
+#div-id2 {
+    background: rgb(85, 230, 85);
+    font-size: 24px;
+    font-weight: bold;
+}
